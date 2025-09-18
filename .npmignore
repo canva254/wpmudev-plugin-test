@@ -1,0 +1,12 @@
+# Exclude development dependencies and unnecessary files from npm package
+node_modules/
+app/
+src/
+tests/
+*.log
+*.md
+webpack.config.js
+Gruntfile.js
+phpunit.xml.dist
+phpcs.ruleset.xml
+changelog.txt
